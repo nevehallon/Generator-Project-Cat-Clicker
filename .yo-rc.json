@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Neveh Allon",
+      "authorEmail": "nevehallon@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
